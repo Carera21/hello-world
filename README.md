@@ -1,2 +1,4 @@
 # hello-world
-GitHub tuttorial
+GitHub tutorial
+
+a litle bit about myself 
